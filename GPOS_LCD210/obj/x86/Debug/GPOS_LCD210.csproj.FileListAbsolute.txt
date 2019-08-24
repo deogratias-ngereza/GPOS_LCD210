@@ -1,0 +1,10 @@
+C:\Users\grand\AppData\Local\Temporary Projects\GPOS_LCD210\bin\Debug\GPOS_LCD210.exe
+C:\Users\grand\AppData\Local\Temporary Projects\GPOS_LCD210\bin\Debug\GPOS_LCD210.pdb
+C:\Users\grand\AppData\Local\Temporary Projects\GPOS_LCD210\obj\x86\Debug\GPOS_LCD210.exe
+C:\Users\grand\AppData\Local\Temporary Projects\GPOS_LCD210\obj\x86\Debug\GPOS_LCD210.pdb
+D:\GRAND_PRO\PROJECTS\POA_SUPERMARKET\visual_studio\GPOS_LCD210\GPOS_LCD210\obj\x86\Debug\GPOS_LCD210.exe
+D:\GRAND_PRO\PROJECTS\POA_SUPERMARKET\visual_studio\GPOS_LCD210\GPOS_LCD210\obj\x86\Debug\GPOS_LCD210.pdb
+D:\GRAND_PRO\PROJECTS\POA_SUPERMARKET\visual_studio\GPOS_LCD210\GPOS_LCD210\bin\Debug\GPOS_LCD210.exe
+D:\GRAND_PRO\PROJECTS\POA_SUPERMARKET\visual_studio\GPOS_LCD210\GPOS_LCD210\bin\Debug\GPOS_LCD210.pdb
+D:\GRAND_PRO\PROJECTS\POA_SUPERMARKET\visual_studio\GPOS_LCD210\GPOS_LCD210\bin\Debug\Newtonsoft.Json.dll
+D:\GRAND_PRO\PROJECTS\POA_SUPERMARKET\visual_studio\GPOS_LCD210\GPOS_LCD210\obj\x86\Debug\GPOS_LCD210.csprojResolveAssemblyReference.cache

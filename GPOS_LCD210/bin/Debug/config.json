@@ -1,0 +1,5 @@
+{
+	"com_port" : "COM13",
+	"path_to_watch" : "c:/gpoll", 
+	"file_to_watch" : "data.txt"
+}
